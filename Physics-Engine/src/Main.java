@@ -1,4 +1,5 @@
-//testing
+//testing 2
+
 
 import java.awt.*;
 import java.awt.event.*;
@@ -7,8 +8,7 @@ import java.awt.event.KeyListener;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.Image;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
+
 
 public class Main implements Runnable, KeyListener {
 
